@@ -1,4 +1,3 @@
-
 getgenv().script_key = ""
 getgenv().Theme = {
     LightBlue = {
